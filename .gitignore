@@ -3,4 +3,5 @@ target
 .project
 .classpath
 release.properties
-pom.xml.releaseBac
+pom.xml.releaseBackup
+pom.xml.versionsBackup
