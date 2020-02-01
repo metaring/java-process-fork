@@ -18,7 +18,7 @@
 
     <groupId>com.metaring</groupId>
     <artifactId>java-process-fork</artifactId>
-    <version>1.5.3-SNAPSHOT</version>
+    <version>1.5.4-SNAPSHOT</version>
 
     <name>MetaRing - Java Process Fork</name>
     <description>Let to run parallel processes but linked to the Forking JVM lifecycle</description>
